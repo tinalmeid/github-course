@@ -1,5 +1,6 @@
 Git Course
 
+qalquer coisa
 Este é um repositório teste para ensinar como o Git Funciona.
 
 Reveja sempre as anotações do curso.
